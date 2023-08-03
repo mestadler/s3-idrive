@@ -1,4 +1,4 @@
-Certainly! To rename the systemd service to "s3-idrive," follow the steps below:
+
 
 1. Rename the service unit file:
 
